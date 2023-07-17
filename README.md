@@ -15,4 +15,5 @@ How to get unpopular properties more traction? and so on...
 Download the dataset given below. This dataset contains information about different Airbnb listings along with their hosts, locations, prices and other attributes.
 ![image](https://github.com/sarapysql/Airbnb_Datastorytelling/assets/127746113/e102a2c1-88f8-47c5-a1a4-67ee8076b13e)
 You can classify the variables into different types – categorical, numeric, location and time. It is important to understand which plot needs to be used for plotting each variable. You can refer to the variable categories by looking at the diagram given below.
+
 ![image](https://github.com/sarapysql/Airbnb_Datastorytelling/assets/127746113/91432b14-0749-47a4-8217-fdd8fa613bbe)
